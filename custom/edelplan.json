@@ -1,0 +1,8 @@
+{
+    "welcome": {
+        "mp3": "edelplan/in"
+    },
+    "goodbye": {
+        "mp3": "edelplan/out"
+    }
+}
